@@ -60,7 +60,7 @@ class Segment {
 
   draw(){
     stroke(random(255), random(255), random(255))
-    strokeWeight(.5)
+    strokeWeight(1)
     line(this.sp.x, this.sp.y, this.ep.x, this.ep.y)
   }
 }

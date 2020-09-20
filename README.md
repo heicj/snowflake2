@@ -1,4 +1,5 @@
 # snowflake2
+Uses P5.js library and html canvas
 
 Based on my repo https://github.com/heicj/kochSnowflake
 
