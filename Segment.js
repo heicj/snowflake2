@@ -57,4 +57,10 @@ class Segment {
   p6(){
     return this.ep;
   }
+
+  draw(){
+    stroke(random(255), random(255), random(255))
+    strokeWeight(.5)
+    line(this.sp.x, this.sp.y, this.ep.x, this.ep.y)
+  }
 }
