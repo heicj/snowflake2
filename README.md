@@ -10,6 +10,8 @@ Each segment for each generation is then converted to a generator image where ea
 So the top line of the square turns into "__|--|__"  (not acurate depiction, dash lines would be top section connecting sides) where each
 part is a line that acts as initiator for each generation.
 
+JPGs of first four generations of drawing are in repo.
+
 Coding Train YouTube videos inspired my origin kochSnowflake design which I used to create this.
 
 Coding Train: https://youtu.be/X8bXDKqMsXE and https://youtu.be/_BOtJncHCVA
